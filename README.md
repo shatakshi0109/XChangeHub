@@ -13,3 +13,13 @@
 A simple yet powerful **Currency Converter GUI** built with **Python (Tkinter)** and **forex-python**.  
 Enter an amount, choose source & target currencies (USD, INR, EUR, GBP, etc.), and get real-time conversion results instantly.  
 The project features a **clean interface** and **error handling** for smooth user experience.
+
+
+---
+
+## 🎥 Demo
+
+Here’s how the Currency Converter looks in action:
+
+### 🖼️ Screenshot
+![App Screenshot](demo/screenshot.png)
